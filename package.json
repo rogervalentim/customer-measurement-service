@@ -13,9 +13,11 @@
     "@fastify/static": "^7.0.4",
     "@google/generative-ai": "^0.17.1",
     "@prisma/client": "^5.19.0",
+    "customer-measurement-service": "file:",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.1",
     "prettier": "^3.3.3",
+    "puppeteer": "^22.8.2",
     "uuid": "^10.0.0"
   },
   "devDependencies": {

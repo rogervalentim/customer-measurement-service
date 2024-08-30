@@ -102,3 +102,18 @@ export async function upload(app: FastifyInstance) {
     }
   });
 }
+
+// async function createCustomer() {
+//   try {
+//     const customer = await prisma.customer.create({
+//       data: {
+//         code: "1" // Substitua pelo código desejado
+//       }
+//     });
+//     console.log("Customer created:", customer);
+//   } catch (error) {
+//     console.error("Error creating customer:", error);
+//   }
+// }
+
+// createCustomer();
